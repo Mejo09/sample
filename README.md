@@ -1,2 +1,2 @@
 # sample
-this is a sample game
+this is a sample game by roy
